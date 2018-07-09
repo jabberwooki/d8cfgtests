@@ -3,5 +3,5 @@ local:
   uri: http://www.d8cfg-site1.localhost
   
 dev:
-  root: /var/www/vhosts/korora.fr/d8configtests/web
+  root: /var/www/vhosts/korora.fr/d8cfgtests/web
   uri: http://d8cfg-site1.korora.fr
