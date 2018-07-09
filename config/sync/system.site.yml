@@ -1,0 +1,14 @@
+uuid: 6e871877-8ef1-44b8-b040-be239042e8b7
+name: 'D8 Config tests - Site1 (local)'
+mail: christophe.espiau@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: fr
+default_langcode: fr
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
